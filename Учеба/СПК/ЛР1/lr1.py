@@ -96,7 +96,7 @@ class MG():
                     
             
 mg = MG(32)
-# mg.generateMg() #Generation
+mg.generateMg() #Generation
 # mg.calculateAutocorrelation() #Autocorrelation calc
 # mg.generateSboxes() #S-boxes generation
             
